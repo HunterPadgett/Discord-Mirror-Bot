@@ -1,22 +1,23 @@
 {
-  "token": "INSERT_YOUR_TOKEN_HERE",
+  "token": "MzE4ODkyNzE3MTY4MTMyMDk3.Gq4HGQ.U7kH1G2gzyM84uNet46ykW0G9FhTaYXsBxFEkY",
   "status": "offline",
   "mirrors": [
     {
       "channel_ids": [
-        "INSERT_CHANNEL_ID_HERE"
+        "1195143932108087317",
+        "1376310036548288562",
+        "1287926019826647121",
+        "1351971116826099773",
+        "1221424034391265291",
+        "1176532359844212877",
+        "1176531775019823224",
+        "1176531503048556656",
+        "1309694901163659337"
       ],
       "webhooks_urls": [
-        "INSERT_WEBHOOK_URL_HERE"
+        "https://discord.com/api/webhooks/1376654160077783120/7RKzv5Vl7YBzta06yQy13u9PlCbGutJJAOz49S2ivwL5Q0GVqP3fnT7VMfma2mcvvBix"
       ]
     }
   ],
-  "mentions": {
-    "INSERT_SERVER_ID_HERE": [
-      {
-        "original": "INSERT_ORIGINAL_ID_HERE",
-        "replaced": "INSERT_REPLACED_ID_HERE"
-      }
-    ]
-  }
+  "mentions": {}
 }
