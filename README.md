@@ -9,12 +9,6 @@ I take no responsibility for using this bot against Discord TOS.
 - **Allow mirroring one or more messages to one or more webhooks.**
 - **Optimized and lightweight.**
 
-## Showcase
-> Original message (from server A):\
-![](https://i.imgur.com/ogelJ23.png)\
-Mirrored message (to server B):\
-![](https://i.imgur.com/C42OT64.png)
-
 ## Requirements
 - [NodeJS](https://nodejs.org/en/download/) (v16.17.0 or higher)
 
@@ -69,7 +63,7 @@ Mirrored message (to server B):\
 ### An example:
 ```json
 {
-  "token": "rMQ3QFqk9sJVqpmQ2ZEe95JKscSOg9hAT5UBRps13rODuIUSeg",
+  "token": "rMQ3QFqk9s*******e95JKscSOg9*******rODuIUSeg",
   "status": "offline",
   "mirrors": [
     {
